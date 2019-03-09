@@ -215,3 +215,14 @@ In order to have a stable hover in an Autolevel mode (Angle or Horizon) you need
 4. [Oscarliang](https://oscarliang.com)
 5. [cleanflight](http://cleanflight.com/)
 6. [OpenTX University Cleanflight Tutorial](http://open-txu.org/home/special-interests/multirotor/cleanflight-pid-tuning/)
+
+### Team members:
+
+Mohamad Al Mdfaa
+Mohamad.AlMdfaa@yahoo.com
+
+Mhd Hasan Alganadi
+mhdhasanaljanady@gmail.com
+
+Ahmad Al Shalabi
+ahmad.alshalabi.iot@gmail.com
