@@ -1,7 +1,7 @@
 # Unmanned-Aerial-Robots
 
 
-### Flight Controller
+### Flight Controller (1 PC)
 
 #### I/O
 • 6 + 8 PWM I/O can remap as input or output for RC/CPPM/Motors/Servos. Supports varying update rates (50Hz - 32kHz). Direct-drive brushed motors also supported with additional hardware (FETs).
@@ -30,3 +30,30 @@
 2500 = 400HZ
 2000 = 500HZ
 1500 = 600HZ
+
+
+### Electrical Speed Controllers ESCs (4 PCS)
+ESCs are a quality speed controller
+
+#### Details: 
+• Smooth and linear throttle control 
+• Fast response to throttle input 
+• Atmel MCU
+• Stalled motor protection 
+• Throttle signal lose protection 
+• Safe power-on (throttle lockout) 
+• Support 480Hz+ high refresh rates (up to 499hz) 
+• Compatible with programming card
+
+#### Specs:
+Constant Current: 30A
+Input Voltage: 2-6 cells Lipoly
+Frequency: 20-500Hz
+BEC: Yes (Switching) [Remove middle wire to disable]
+BEC Output: 5V/4APWM: 8 KHz
+Max RPM: 240,000rpm for 2 Poles Brushless Motor
+PCB Size: 41mm x 24mm
+Discharge Plugs: Male 3.5mm Bullet Connector
+Motor Plugs: Female 3.5mm Bullet Connector
+Weight: 35g
+#### [Where to buy](https://hobbyking.com/en_us/turnigy-multistar-30-amp-blheli-multi-rotor-brushless-esc-2-6s-v2-0.html)
