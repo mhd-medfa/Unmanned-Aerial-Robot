@@ -45,6 +45,7 @@ ESCs are a quality speed controller
 • Safe power-on (throttle lockout) 
 • Support 480Hz+ high refresh rates (up to 499hz) 
 • Compatible with programming card
+![ESC on the Oscilloscope](./images/ESC%20signal%20on%20Oscilloscope.jpg)
 
 #### Specs:
 Constant Current: 30A
@@ -58,6 +59,7 @@ Discharge Plugs: Male 3.5mm Bullet Connector
 Motor Plugs: Female 3.5mm Bullet Connector
 Weight: 35g
 #### [Where to buy](https://hobbyking.com/en_us/turnigy-multistar-30-amp-blheli-multi-rotor-brushless-esc-2-6s-v2-0.html)
+
 
 ### Fight Controller Software
 We depends on an Open-Source flight controller software which designed for modern flight boards
