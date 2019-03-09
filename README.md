@@ -34,6 +34,7 @@
 
 ### Electrical Speed Controllers ESCs (4 PCS)
 ESCs are a quality speed controller
+![ESCs and Brushless DC Motors](./images/An%20ESC%20wired%20with%20a%20Brushless%20DC%20Motor.jpg)
 
 #### Details: 
 • Smooth and linear throttle control 
@@ -57,3 +58,8 @@ Discharge Plugs: Male 3.5mm Bullet Connector
 Motor Plugs: Female 3.5mm Bullet Connector
 Weight: 35g
 #### [Where to buy](https://hobbyking.com/en_us/turnigy-multistar-30-amp-blheli-multi-rotor-brushless-esc-2-6s-v2-0.html)
+
+### Fight Controller Software
+We depends on an Open-Source flight controller software which designed for modern flight boards
+
+![flight controller software](./images/cleanflight-anim.gif)
