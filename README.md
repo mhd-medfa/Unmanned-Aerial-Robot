@@ -4,6 +4,10 @@
 
 
 
+
+[![Drone Demo](https://img.youtube.com/vi/aL1qV6p7qkQ/0.jpg)](https://www.youtube.com/watch?v=aL1qV6p7qkQ)
+
+
 ### Flight Controller (1 PC)
 
 #### I/O
@@ -208,7 +212,10 @@ Therefore the correct way to Calibrate is to use Accelerometer trims, which brin
 How to trim your Accelerometer
 In order to have a stable hover in an Autolevel mode (Angle or Horizon) you need to trim the Accelerometer. If you recall above the Accelerometer is not used in Acro mode. When you activate an Autolevel mode and your multirotor moves you need to trim your accelerometer as detailed below.
 
+[![Drone Demo](https://img.youtube.com/vi/aL1qV6p7qkQ/0.jpg)](https://www.youtube.com/watch?v=aL1qV6p7qkQ)
+
 ### References:
+
 1. [Robotics: Aerial Robotics](https://www.coursera.org/learn/robotics-flight)
 2. [Autonomous Navigation for Flying Robots](https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0)
 3. [rcgroups](https://www.rcgroups.com)
